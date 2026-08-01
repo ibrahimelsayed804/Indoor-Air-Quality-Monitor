@@ -90,10 +90,6 @@ The enclosure (designed for field deployment at ZingHub):
 
 ![Enclosure design](docs/images/enclosure-design.jpg)
 
-The enclosure (designed for field deployment at ZingHub):
-
-![Enclosure design](docs/images/enclosure-design.jpg)
-
 Fully wired and assembled:
 
 ![Assembled enclosure](docs/images/assembled-enclosure.jpg)
