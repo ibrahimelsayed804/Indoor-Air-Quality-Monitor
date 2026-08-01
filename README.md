@@ -90,6 +90,10 @@ The enclosure (designed for field deployment at ZingHub):
 
 ![Enclosure design](docs/images/enclosure-design.jpg)
 
+A Schneider PowerLogic digital meter (component c) is mounted on the front panel for local power monitoring:
+
+![Digital meter closeup](docs/images/digital-meter-closeup.jpg)
+
 Fully wired and assembled:
 
 ![Assembled enclosure](docs/images/assembled-enclosure.jpg)
