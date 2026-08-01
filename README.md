@@ -6,7 +6,7 @@ Built as a Final Year Project (Bachelor of Electrical and Electronics
 Engineering) at the University of Wollongong in Malaysia — deployed to
 continuously monitor the **ZingHub** study space over a 3-day field study.
 
-![Dashboard]()
+![Dashboard](docs/images/Dashboard.jpg)
 
 ---
 
