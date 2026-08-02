@@ -98,7 +98,7 @@ The finished, closed box:
 
 ![Enclosure exterior](docs/images/enclosure-exterior.jpg)
 
-A Schneider PowerLogic digital meter (component c) is mounted on the front panel for local power monitoring:
+A Mikro PowerLogic digital meter (component c) is mounted on the front panel for local power monitoring:
 
 ![Digital meter closeup](docs/images/digital-meter-closeup.jpg)
 ---
